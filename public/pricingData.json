@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price":  "$19.99/month",
+    "duration": "month",
+    "description": "Perfect for beginners who want access to essential gym facilities.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free fitness assessment",
+      "1 group class per week",
+      "Open gym hours access",
+      "Mobile app access",
+      "Basic workout plan",
+      "Community support access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$39.99/month",
+    "duration": "month",
+    "description": "Great for regular members who want more classes and benefits.",
+    "features": [
+      "Unlimited gym access",
+      "Locker room access",
+      "5 group classes per week",
+      "Free fitness assessment",
+      "1 personal training session per month",
+      "Access to cardio and strength zones",
+      "Mobile app with progress tracking",
+      "Guest pass (1 per month)",
+      "Body composition analysis",
+      "Discount on gym merchandise"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$49.99/month",
+    "duration": "month",
+    "description": "Best for dedicated fitness enthusiasts who want full access and premium support.",
+    "features": [
+      "24/7 gym access",
+      "Unlimited group classes",
+      "3 personal training sessions per month",
+      "Diet and nutrition consultation",
+      "Sauna and shower access",
+      "Priority support",
+      "Access to all gym facilities",
+      "Advanced workout plans",
+      "Mobile app with full analytics",
+      "Guest passes (3 per month)",
+      "Recovery zone access (massage chairs, ice bath)",
+      "Exclusive member events"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Family Plan",
+    "price":"$59.99/month",
+    "duration": "month",
+    "description": "A budget-friendly package for families who want to stay fit together.",
+    "features": [
+      "Access for up to 4 family members",
+      "Unlimited gym access",
+      "Group classes included",
+      "Locker room access",
+      "Kids activity zone access",
+      "Family fitness consultation",
+      "Shared progress tracking in mobile app",
+      "Weekend family fitness sessions",
+      "Discount on additional members",
+      "Priority booking for classes"
+    ]
+  }
+]
